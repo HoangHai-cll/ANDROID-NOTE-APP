@@ -16,3 +16,18 @@ MyNoteApp là một ứng dụng ghi chú đơn giản, hiện đại và tiện
 •   Xóa ghi chú: Dễ dàng quản lý và xóa những ghi chú không còn cần thiết qua Menu chuột phải (Long click).
 
 •   Lưu trữ Offline: Sử dụng Room Database để lưu trữ dữ liệu bền vững ngay trên thiết bị, không cần kết nối internet.
+
+🛠 Công nghệ sử dụng
+•   Ngôn ngữ: Java\
+
+•   Database: Room Persistence Library (SQLite)
+
+•   UI Components:
+
+◦   RecyclerView với StaggeredGridLayoutManager
+
+◦   CardView & Material Design
+
+◦   FloatingActionButton
+
+•   Architecture: SQLite DAO (Data Access Object)
