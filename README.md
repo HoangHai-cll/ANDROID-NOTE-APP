@@ -2,7 +2,7 @@
 
 MyNoteApp là một ứng dụng ghi chú đơn giản, hiện đại và tiện lợi dành cho Android. Ứng dụng giúp bạn nhanh chóng lưu lại ý tưởng, danh sách công việc và những thông tin quan trọng với giao diện trực quan và màu sắc sinh động.
 
-##✨ Tính năng nổi bật
+#✨ Tính năng nổi bật
 •   Thêm & Chỉnh sửa ghi chú: Giao diện viết ghi chú sạch sẽ, hỗ trợ tiêu đề và nội dung chi tiết.
 
 •   Tìm kiếm thông minh: Tìm kiếm ghi chú ngay lập tức theo tiêu đề hoặc nội dung thông qua thanh tìm kiếm ở trang chủ.
